@@ -1,0 +1,24 @@
+header {
+  background-color: black;
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#navBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 40vw;
+}
+
+.navLink {
+  color: white;
+  text-decoration: none;
+}
+
+.navLink:hover {
+  transform: scale(120%);
+}
