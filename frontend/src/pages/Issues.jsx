@@ -1,3 +1,5 @@
+import '../stylesheets/Issues.css'
+
 function Issues() {
   return (
     <main id="issues">

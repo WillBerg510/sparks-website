@@ -1,3 +1,5 @@
+import '../stylesheets/Stories.css'
+
 function Stories() {
   return (
     <main id="stories">
